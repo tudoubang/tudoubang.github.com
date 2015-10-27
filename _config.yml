@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            土豆帮
 #tagline:          'A Jekyll theme'
-description:      'A brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content. Made by @mdo.'
+description:      '程序员是值得尊敬的，程序员的双手是魔术师的双手。他们把枯燥无味的代码变成了丰富多彩的软件……'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
